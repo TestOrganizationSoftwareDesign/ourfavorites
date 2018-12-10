@@ -7,10 +7,7 @@ public class HelloWorld {
 	public void secondHelloWorld() {
 		System.out.println("hello again");
 	}
-	
-	public void thirdWorld() {
-		System.out.println("hello AGAIN");
-	}
+
 	
 	
 }
