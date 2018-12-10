@@ -8,4 +8,9 @@ public class HelloWorld {
 		System.out.println("hello again");
 	}
 	
+	public void thirdWorld() {
+		System.out.println("hello AGAIN");
+	}
+	
+	
 }
